@@ -1,0 +1,2 @@
+# RelayStation
+a translation challenge platform. three screens, languageOne, languageTwo, translated; trollboxes in both languages, and a timestamp race of translating the dialogue between both sides; translators receive bonus payouts for submitting the translations back and forth; can be tipped bonus for work on request or kindness; each translation submission would be an off-chain transaction timestamped by the blockchain
