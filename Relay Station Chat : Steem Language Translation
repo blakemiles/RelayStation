@@ -1,0 +1,38 @@
+Relay Station Chat / Steem Language Translation  
+
+1) select language pair
+2) select default translator reward percentage (of SBD)
+3) submit post / comment
+4) posted content becomes available to translation queue
+5) translator community receives notification of new content needing translation
+6) individual translators translate and submit completed translations
+7) individual translators tag each translation with the language they are translating into
+8) completed translations verified, ammended, and confirmed for shares of the reward
+9) translations appear within language filters based on content tags and translator tags
+10) translation amendments or corrections from additional translators appear as side-notes to amplify and clarify meanings for readers
+11) upvotes of translated material are funneled to original content creator
+12) translations run parallel to 
+
+- must allow for user to designate dollar amount to allot for translation rewards
+- must allow for user to designate percentage of vote rewards to translation rewards
+- must allow for language translation tags to be visible based on user language preference
+- must have separate user interface to view available translation requests
+- must allow for any user to 'donate' translation rewards into escrow to supplement content creator translation reward pool
+- translations must not count towards user post limits
+- must be able to create a URL that parallells the original 
+- must inform translator pool of edits
+- must track translator statistics and reputation
+- must allow multi-lingual people to choose multiple language filters to see all posts in all languages they can read
+- must allow translators to insert commentary relevant to the translations (detailed explanations for idioms, jokes, or anything 'hard' to translate)
+
+
+Questions/Commentary:
+- this sets the stage for a potential real-time chat translation platform utilizing Steem accounts
+- encourages mutli-lingual training with real incentives
+- poorly translated material can only be downvoted by other translators of that language pair
+- language competency test required?
+- may need to be built as a sidechain that allows for API pulls from Steemit.com based on user language preference
+- may require a bot to interact with the original post and translated post(s)
+- what will define the reward split for edits/amednments/notes voting of follow-on translators?
+- will user be able to define the rewards explicitly? recommended default?
+- in-line 'post content field' instructions for RelayStation? 
